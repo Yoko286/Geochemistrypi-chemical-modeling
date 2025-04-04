@@ -1,0 +1,2 @@
+[console_scripts]
+geochemistrypi = geochemistrypi.cli:app
